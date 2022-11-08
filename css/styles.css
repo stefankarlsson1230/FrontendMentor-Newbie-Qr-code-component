@@ -1,0 +1,38 @@
+/*
+Layout
+The designs were created to the following widths:
+  Mobile: 375px
+  Desktop: 1440px
+
+Colors
+  White: hsl(0, 0%, 100%)
+  Light gray: hsl(212, 45%, 89%)
+  Grayish blue: hsl(220, 15%, 55%)
+  Dark blue: hsl(218, 44%, 22%)
+
+Typography
+Body Copy
+  Font size (paragraph): 15px
+
+Font
+  Family: Outfit              font-family: 'Outfit', sans-serif;
+  Weights: 400, 700
+
+*/
+
+body {
+  background-color: #D5E1EF;
+  height: 100vh;
+  text-align: center;
+}
+
+main {
+  width: 320px;
+  height: 497px;
+  margin: auto;
+}
+
+img {
+  width: 288px;
+}
+
