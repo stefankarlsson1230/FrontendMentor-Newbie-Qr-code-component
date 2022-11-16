@@ -10,9 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -22,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/stefankarlsson1230/FrontendMentor-Newbie-Qr-code-component)
-- Live Site URL: [Add live site URL here](https://stefankarlsson1230.github.io/FrontendMentor-Newbie-Qr-code-component/)
+- [Solution](https://github.com/stefankarlsson1230/FrontendMentor-Newbie-Qr-code-component)
+- [Live Site](https://stefankarlsson1230.github.io/FrontendMentor-Newbie-Qr-code-component/)
 
 ## My process
 
@@ -33,5 +30,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/stefankarlsson1230)
+- Frontend Mentor - [@stefankarlsson1230](https://www.frontendmentor.io/profile/stefankarlsson1230)
 
